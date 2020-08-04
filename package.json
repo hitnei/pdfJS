@@ -67,5 +67,9 @@
     "type": "git",
     "url": "git://github.com/mozilla/pdf.js.git"
   },
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "drag-drop": "^6.0.2",
+    "dragula": "^3.7.2"
+  }
 }
