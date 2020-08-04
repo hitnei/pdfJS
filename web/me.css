@@ -1,0 +1,12 @@
+.some-block {
+    z-index: 100;
+    font-size: 2rem;
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background: #ddd;
+    cursor: pointer;
+    max-width: 200px;
+    color: black !important;
+    width: 150px;
+}
